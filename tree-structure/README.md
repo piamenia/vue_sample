@@ -1,4 +1,4 @@
-# hello-world-vue2
+# Tree structure demo
 
 ## Project setup
 ```

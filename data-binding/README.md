@@ -1,4 +1,4 @@
-# data-binding
+# Data binding demo
 
 ## Project setup
 ```

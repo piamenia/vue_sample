@@ -1,4 +1,4 @@
-# pptdemo
+# Component demo
 
 ## Project setup
 ```

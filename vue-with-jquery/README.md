@@ -1,4 +1,4 @@
-# vue-with-jquery
+# Vue with Jquery demo
 
 ## Project setup
 ```
